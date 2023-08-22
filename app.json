@@ -8,6 +8,9 @@
       "expo-router"
     ],
     "name": "Jobs",
-    "slug": "Jobs"
+    "slug": "Jobs",
+    "updates": {
+      "useClassicUpdates": true
+    }
   }
 }
