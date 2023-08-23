@@ -12,6 +12,7 @@ This application allows you to browse and search for job offers, as well as see 
   <img src="https://i.postimg.cc/zBGvQ48L/Screenshot-1692664403.png"/>
 </p>
 
+<br>
 <br> 
 <p align="center">
   Job details
