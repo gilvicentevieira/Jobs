@@ -13,6 +13,7 @@ This application allows you to browse and search for job offers, as well as see 
 </p>
 
 <br>
+<br>
 <br> 
 <p align="center">
   Job details
