@@ -2,6 +2,7 @@
 
 This application allows you to browse and search for job offers, as well as see all the details. You can then click and apply to a certain job
 <br>
+<br>
 Developed with Expo. Using Expo-Router and Axios
 
 <br> 
